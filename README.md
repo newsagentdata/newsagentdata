@@ -25,19 +25,19 @@
 
 <br><br>
 
-[![Articles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=3b82f6&label=%F0%9F%93%B0%20Articles&query=%24.total&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
-[![Added today](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=22c55e&label=%E2%9A%A1%20Last%2024h&query=%24.today&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
-[![Breaking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ef4444&label=%F0%9F%9A%A8%20Breaking&query=%24.breaking&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
+[![Articles](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=3b82f6&label=%F0%9F%93%B0%20Articles&query=%24.total&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
+[![Added today](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=22c55e&label=%E2%9A%A1%20Last%2024h&query=%24.today&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
+[![Breaking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ef4444&label=%F0%9F%9A%A8%20Breaking&query=%24.breaking&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
 
-[![Countries](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6366f1&label=%F0%9F%8C%8D%20Countries&query=%24.countries_count&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/coverage/)
-[![Languages](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0ea5e9&label=%F0%9F%97%A3%EF%B8%8F%20Languages&query=%24.languages_count&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
-[![Sources](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b5cf6&label=%F0%9F%93%A1%20Sources&query=%24.sources&url=https%3A%2F%2Fapi.newsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/sources/)
+[![Countries](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6366f1&label=%F0%9F%8C%8D%20Countries&query=%24.countries_count&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/coverage/)
+[![Languages](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0ea5e9&label=%F0%9F%97%A3%EF%B8%8F%20Languages&query=%24.languages_count&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/)
+[![Sources](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b5cf6&label=%F0%9F%93%A1%20Sources&query=%24.sources&url=https%3A%2F%2Fnewsagentdata.com%2Fpublic%2Fstats)](https://newsagentdata.com/sources/)
 
 <br><br>
 
 ### 📰 Latest breaking — straight from the pipeline
 
-<a href="https://newsagentdata.com/"><img src="https://api.newsagentdata.com/public/card.svg" alt="Live breaking news from NewsAgent Data" width="100%"></a>
+<a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/public/card.svg" alt="Live breaking news from NewsAgent Data" width="100%"></a>
 
 <sub>This card is generated on-the-fly by our own API. Refresh in a few hours — the headlines will be different.</sub>
 

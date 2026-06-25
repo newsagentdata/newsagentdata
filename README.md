@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://newsagentdata.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Real-time+news+intelligence%2C+as+an+API;190%2B+countries+%C2%B7+40%2B+languages+%C2%B7+RU%2FEN+core;Every+article+ML-enriched%3A+urgency%2C+lean%2C+clustering;Built+for+AI+agents+%E2%80%94+a+native+MCP+server" alt="Typing SVG" /></a>
+<a href="https://newsagentdata.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Real-time+news+intelligence%2C+as+an+API;Global+coverage+with+a+Russian+%26+English+core;Every+article+ML-enriched%3A+urgency%2C+lean%2C+clustering;Built+for+AI+agents+%E2%80%94+a+native+MCP+server" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -58,13 +58,13 @@ Global coverage with a Russian & English core, drawn from **RSS + Telegram** sou
 <td width="50%" valign="top">
 
 ### 🧠 Enrichment on every article
-Urgency score (1–10), breaking detection, political-lean classification, event clustering & de-duplication, plus topic, country, audience, language and event-type tags.
+Urgency score (0–10), breaking detection, political-lean classification, event clustering & de-duplication, plus topic, country, audience, language and event-type tags.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌍 Coverage at scale
-1M+ articles, growing ~3,000/hour, across **190+ countries** and **40+ languages** — true RU + EN depth with native-language enrichment.
+Continuously growing coverage — live counts are in the banner and badges above — with true RU + EN depth and native-language enrichment.
 
 </td>
 </tr>

@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/banner.png" alt="NewsAgent Data — real-time, ML-enriched news intelligence as an API" width="100%"></a>
 
@@ -159,3 +159,4 @@ A ready-to-use **Model Context Protocol** server lets LLM agents query the feed,
 <sub><i>The numbers above are live. So is the news.</i></sub>
 
 </div>
+](https://github.com/newsagentdata/newsagentdata/blob/main/README.md)

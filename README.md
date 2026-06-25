@@ -1,5 +1,3 @@
-<div align="center">
-
 <a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/banner.png" alt="NewsAgent Data — real-time, ML-enriched news intelligence as an API" width="100%"></a>
 
 <br>

@@ -1,10 +1,10 @@
-[<div align="center">
+<div align="center">
 
-<a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/banner.png" alt="NewsAgent Data — real-time, ML-enriched news intelligence as an API" width="100%"></a>
+<a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/banner-v2.png" alt="NewsAgent Data — real-time, ML-enriched news intelligence as an API" width="100%"></a>
 
 <br>
 
-<a href="https://newsagentdata.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Real-time+news+intelligence%2C+as+an+API;190%2B+countries+%C2%B7+38+languages+%C2%B7+RU%2FEN+core;Every+article+ML-enriched%3A+urgency%2C+lean%2C+clustering;Built+for+AI+agents+%E2%80%94+a+native+MCP+server" alt="Typing SVG" /></a>
+<a href="https://newsagentdata.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Real-time+news+intelligence%2C+as+an+API;190%2B+countries+%C2%B7+40%2B+languages+%C2%B7+RU%2FEN+core;Every+article+ML-enriched%3A+urgency%2C+lean%2C+clustering;Built+for+AI+agents+%E2%80%94+a+native+MCP+server" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -64,7 +64,7 @@ Urgency score (1–10), breaking detection, political-lean classification, event
 <td width="50%" valign="top">
 
 ### 🌍 Coverage at scale
-750K+ articles, growing ~1,800/hour, across **190+ countries** and **35+ languages** — true RU + EN depth with native-language enrichment.
+1M+ articles, growing ~3,000/hour, across **190+ countries** and **40+ languages** — true RU + EN depth with native-language enrichment.
 
 </td>
 </tr>
@@ -159,4 +159,3 @@ A ready-to-use **Model Context Protocol** server lets LLM agents query the feed,
 <sub><i>The numbers above are live. So is the news.</i></sub>
 
 </div>
-](https://github.com/newsagentdata/newsagentdata/blob/main/README.md)

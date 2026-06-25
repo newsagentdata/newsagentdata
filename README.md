@@ -39,7 +39,7 @@
 
 <a href="https://newsagentdata.com/"><img src="https://newsagentdata.com/public/card.svg" alt="Live breaking news from NewsAgent Data" width="100%"></a>
 
-<sub>This card is generated on-the-fly by our own API. Refresh in a few hours — the headlines will be different.</sub>
+<sub>This card is generated on-the-fly by our own API — it refreshes every few minutes, so the headlines keep changing.</sub>
 
 </div>
 
